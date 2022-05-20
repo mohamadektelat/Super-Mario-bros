@@ -1,0 +1,1 @@
+configure_file ( "SuperMario.ttf"   ${CMAKE_BINARY_DIR} COPYONLY)
