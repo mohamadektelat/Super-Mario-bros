@@ -3,12 +3,8 @@ Title:
 SUPER MARIO GAME
 
 //-------------------------------------------------------------------------
-Students Info:
 
-First Student  : Rashid Abo Unis
-ID : 315982421
-
-Second Student : Mohamad Ektelat
+Author : Mohamad Ektelat
 ID : 208223826
 
 //-------------------------------------------------------------------------
@@ -80,7 +76,7 @@ Program files :
 
 
  CMakeLists : 
-	we have 3 CMake files ;
+	I have 3 CMake files ;
 	1- contains all .h files
 	2- contains all .cpp files
 	3- the main CMake 
